@@ -1,4 +1,4 @@
-# devMovies
+# DevMovies
 
 DevMovies
 O projeto DevMovies é um site que permite consultar informações sobre filmes provenientes da API TMDB.
