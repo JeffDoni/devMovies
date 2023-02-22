@@ -6,7 +6,7 @@ A página permite que o usuário visualize uma lista de filmes, além de poder c
 
 O projeto foi desenvolvido utilizando a biblioteca React e a ferramenta Vite. Também foram utilizados hooks do React para gerenciamento do estado e das requisições à API.
 
-##Como utilizar
+## Como utilizar
 
 Para utilizar o DevMovies, é necessário ter o Node.js instalado na máquina.
 Após clonar o repositório, abra um terminal na pasta do projeto e execute os seguintes comandos:
